@@ -1,11 +1,11 @@
 ---
-title: Por que decidi criar minha marca pessoal online (e por que você também deveria)
+title: Porque decidi criar minha marca pessoal online (e porque você também deveria)
 author: Rodrigo Antas
 pubDatetime: 2024-08-30T15:42:46.700Z
 featured: false
 draft: false
 description:
-  "Introduzindo intenções e objetivos desse blog, além de sugerir o por que talvez voce deve fazer o mesmo."
+  "Introduzindo intenções e objetivos desse blog, além de sugerir o por quê talvez voce deve fazer o mesmo."
 ---
 
 > Se você ainda não me conhece, sugiro visitar o [sobre mim](https://rodrigoantas.com/about). A parte profissional provavelmente vai estar completa lá.
